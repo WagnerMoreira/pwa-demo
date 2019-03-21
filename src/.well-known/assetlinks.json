@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "pwa-demo-wm",
+      "package_name": "com.wm.pwaexample",
       "sha256_cert_fingerprints": [
-        "A0:B1:99:E4:12:D9:B8:7D:2C:F0:8E:19:FD:EB:0C:4E:B1:FF:7D:A7:89:54:33:66:12:DB:C0:7B:8D:31:94:4C"
+        "D4:62:2B:6B:82:3C:49:69:5C:2F:DD:EE:06:B9:56:C9:A5:F2:82:5D:1A:44:CF:1F:F6:B4:B9:C9:60:5B:B7:B6"
       ]
     }
   }
